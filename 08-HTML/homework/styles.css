@@ -11,13 +11,26 @@ img {
   padding: 50px;
   border: 4px;
   border-color: crimson;
-  border-style:dotted;
+  border-style: dotted;
+  text-align: center;
 }
 #spanId {
   font-size: 18px;
   margin: 50px;
+  position: fixed;
+  left: 10px;
 }
 
-.divClass{
-    border: 2px dotted #033307;
+.divClass {
+  border: 2px dotted #033307;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://cosasbucket.s3.amazonaws.com/wp-content/uploads/2021/03/01192259/WhatsApp-Image-2021-03-01-at-7.05.57-PM.jpeg");
+}
+#padre {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

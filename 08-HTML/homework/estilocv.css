@@ -1,0 +1,14 @@
+#datos{
+    border: 4px double #ff0000;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.parte{ 
+    border: 2px dotted #0000ff;
+    width: 400px;
+}
+div img{
+    text-align: center;
+}
