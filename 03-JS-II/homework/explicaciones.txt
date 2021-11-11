@@ -1,0 +1,4 @@
+for: Bucle que repite instruciones hasta que cumpla la condición verdadera
+&&: Operador lógico "Y", devuelve verdadero si las dos expresiones son verdaderas
+||: Operador lógico "O", devuelve verdadero si una expresión es verdadera
+!: Operador lógico "No", devuelve el valor opuesto de la expresión
