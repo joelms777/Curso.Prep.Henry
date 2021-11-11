@@ -1,0 +1,9 @@
+Variables: un espacio donde se puede almacenar un valor, dicho espacio tiene nombre y se le puede llamar por ese nombre. Se asigna un valor con "=".
+
+Strings: tipo de datos donde almacenará una variable valores de cadena / texto / caracteres
+
+Funciones: son parte del programa que realiza algo o devuelve un valor(con return), se le puede pasar valores (argumentos)
+
+Declaraciones if: sentencia que permite validar una condición si es verdadero o falso
+
+Valores booleanos (true, false): pueden ser uno de dos valores: activar o desactivar, 0 o 1, verdadero o falso.
