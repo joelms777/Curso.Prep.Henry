@@ -1,0 +1,1 @@
+Arrays: Colección ordenada de datos, se le puede acceder asignar y obtener un dato por el índice de dicha colección.
